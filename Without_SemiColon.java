@@ -4,4 +4,5 @@ public class Without_SemiColon {
         if (System.out.printf("Compare String\n") == null) {}
         if (System.out.append("Compare String!\n").equals(null)) {}
     }
+
 }
